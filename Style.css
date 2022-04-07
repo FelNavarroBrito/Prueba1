@@ -84,3 +84,23 @@ img{
     color: rgb(192, 192, 24);
     font: bolder;
 }
+#sub
+{
+    padding-top: 30px;
+    padding-bottom: 30px;  
+}
+.button1 {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+  }
+#promo
+{
+    background-color: yellow;
+    font-size: 20px;
+}
