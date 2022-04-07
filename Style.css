@@ -59,3 +59,28 @@ body
     clear: both;
     display: table;
   }
+#productos
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+img{
+    max-width: 100%;
+    max-block-size: 100%;
+}
+#item-nombre
+{
+    font: bold;
+    color: black;
+    font-size: 20px;
+}
+#item-categoria
+{
+    color: #737575;
+}
+#item-precio
+{
+    font-size: 25px;
+    color: rgb(192, 192, 24);
+    font: bolder;
+}
