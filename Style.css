@@ -104,3 +104,12 @@ img{
     background-color: yellow;
     font-size: 20px;
 }
+#titulo-despacho
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#img-historial
+{
+    background-color: #8ddb9e;
+}
